@@ -24,7 +24,7 @@ are not interested in accepting into the codebase.
 
 ### Fixing Bugs
 
-If you would like to fix a bug, please [raise an issue](https://github.com/docling-project/docling/docling-jobkit) before sending a
+If you would like to fix a bug, please [raise an issue](https://github.com/docling-project/docling-jobkit/issues) before sending a
 pull request so it can be tracked.
 
 ### Merge Approval
